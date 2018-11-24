@@ -4,10 +4,10 @@ Please read the report notebook here.
 
 # Data Analysis
 ## Data set
-[Hotpot Restaurants Recommendation in Chengdu Chunxi Rd on Dianping.com]http://www.dianping.com/chengdu/ch10/g110r1577
+[Hotpot Restaurants Recommendation in Chengdu Chunxi Rd on Dianping.com](http://www.dianping.com/chengdu/ch10/g110r1577)
 
 ## Data Volume
-434
+314
 
 ## Analysis Dimension
 
