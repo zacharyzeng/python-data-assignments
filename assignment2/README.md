@@ -12,9 +12,9 @@ Please read the report notebook here.
 ## Analysis Dimension
 
 
-## LLimitations and Weakness
-There are flaws in data analysis methodology
-Without in-depth knowledge about how this data can help the consumers to choose a high-quality hotpot restaurant 
+## Limitations and Weakness
+There are flaws in data analysis methodology.  
+Without in-depth knowledge about how this data can help the consumers to choose a high-quality hotpot restaurant.  
 the visualization part is simple, which could be improved more detailed.
 
 ## License
