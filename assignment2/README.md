@@ -1,10 +1,10 @@
 # Brief Introduction:
-Chendu, the capital of Sichuan Province in the southwest of Mainland China, is renowned for it‘s Chuanese cuisine, especially hotpot. And Chunxi Road is located at the core centre of Chengdu, where is the popular place for no matter visitors or the native to amuse. As a "delicacy paradise", there are lots of restaurants here. So, let's count how many hotpot restaurants are opened in this area, and which are popular and well reviewed. 
+Chengdu, the capital of Sichuan Province in the southwest of Mainland China, is renowned for it‘s Chuanese cuisine, especially hotpot. And Chunxi Road is located at the core centre of Chengdu, where is the popular place for no matter visitors or the native to amuse. As a "delicacy paradise", there are lots of restaurants here. So, let's count how many hotpot restaurants are opened in this area, and which are popular and well reviewed on the Dianping.com. 
 Please read the report notebook here.
 
 # Data Analysis
 ## Data set
-http://www.dianping.com/chengdu/ch10/g110r1577
+[Hotpot Restaurants Recommendation in Chengdu Chunxi Rd on Dianping.com]http://www.dianping.com/chengdu/ch10/g110r1577
 
 ## Data Volume
 434
